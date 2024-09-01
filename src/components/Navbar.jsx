@@ -10,6 +10,7 @@ const Navbar = () => (
       <img src={logo} alt="logo" height={45} />
     </Link>
     <SearchBar />
+    <script src="//code.tidio.co/0k1qvf03cin0vw4uyaepybcvqdgqka6q.js" async></script>
   </Stack>
 );
 
